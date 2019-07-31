@@ -1,0 +1,18 @@
+{
+  "name": "course-rabbit-migration",
+  "version": "1.0.0",
+  "description": "Course Rabbit scripts for data migration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.purple.digital/purplehq/ds9"
+  },
+  "author": "Purple",
+  "license": "ISC",
+  "dependencies": {
+    "sander": "^0.6.0"
+  }
+}

@@ -1,0 +1,2460 @@
+{
+  "global": {
+    "defaultBackgroundColor": "#eee",
+    "defaultToolbarColor": "#EDBD2B",
+    "nextCourseProductID": 137222
+  },
+  "content": [
+    {
+      "title": "Introduction (from Lesson 10)",
+      "subTitle": "Chapter 1",
+      "icon": "fa-play-circle",
+      "components": [
+        {
+          "id": "c_1556647720888_A6zpoUyY_woodchuck",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720888_Jm2k1Lx9_bird-of-paradise"
+        },
+        {
+          "id": "c_1556647720888_ekWDTWSN_potbelliedpig",
+          "fileName": "Unit2-Lesson10-LessonIntroduction.mp4",
+          "component": "CourseVideo",
+          "componentPath": "common/courseRabbit/CourseVideo",
+          "videoLayout": "SignItVideoLayout",
+          "videoLayoutPath": "customComponents/signitasl/SignItVideoLayout",
+          "children": [],
+          "parent": "c_1556647720888_Jm2k1Lx9_bird-of-paradise"
+        },
+        {
+          "id": "c_1556647720888_MybzVR5M_woodswallow",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720888_Jm2k1Lx9_bird-of-paradise"
+        }
+      ],
+      "id": "c_1556647720888_Jm2k1Lx9_bird-of-paradise",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "movie",
+      "order": 0
+    },
+    {
+      "title": "Vocabulary (from Lesson 10)",
+      "subTitle": "Chapter 2",
+      "icon": "fa-play-circle",
+      "components": [
+        {
+          "id": "c_1556647720888_6fD8QjaH_black-footedcat",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720888_WSFtmSKV_stoplightloosejaw"
+        },
+        {
+          "id": "c_1556647720888_Qp5IzDki_gartersnake",
+          "fileName": "Unit2-Lesson10-1-Chapter1-AnimalsVocabularySigns.mp4",
+          "component": "CourseVideo",
+          "componentPath": "common/courseRabbit/CourseVideo",
+          "videoLayout": "SignItVideoLayout",
+          "videoLayoutPath": "customComponents/signitasl/SignItVideoLayout",
+          "children": [],
+          "parent": "c_1556647720888_WSFtmSKV_stoplightloosejaw"
+        },
+        {
+          "id": "c_1556647720888_XSBvW1hb_alligator",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720888_WSFtmSKV_stoplightloosejaw"
+        }
+      ],
+      "id": "c_1556647720888_WSFtmSKV_stoplightloosejaw",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "movie",
+      "order": 1
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "In the video, Leah stopped by Caf-ASL to tell Chef Keith",
+      "quizAnswers": [
+        {
+          "answerText": "she is visiting her family.",
+          "rightAnswer": true,
+          "id": "q_1556647720889_rLds1mSx_tasseledwobbegong"
+        },
+        {
+          "answerText": "he has really aged.",
+          "id": "q_1556647720889_cbkAuT8r_oldworldflycatcher"
+        },
+        {
+          "answerText": "she is attending the local university.",
+          "id": "q_1556647720889_MmpSXjXq_grouper"
+        },
+        {
+          "answerText": "she is looking for work.",
+          "id": "q_1556647720889_r0T3KNeu_llama"
+        }
+      ],
+      "id": "q_1556647720889_gNNwJSHD_reddrum",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 0,
+      "notForLessonExam": true
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "In the video, Leah thinks attending university",
+      "quizAnswers": [
+        {
+          "answerText": "is hard because she has too many classes.",
+          "id": "q_1556647720889_SPUzAs8k_napoleonwrasse"
+        },
+        {
+          "answerText": "is fun because she has many friends.",
+          "rightAnswer": true,
+          "id": "q_1556647720889_R3iTRvZK_tamandua"
+        },
+        {
+          "answerText": "is a lot of work because the teachers give too much homework.",
+          "id": "q_1556647720889_5VaiMmNx_guineafowl"
+        },
+        {
+          "answerText": "has helped her to decide to become a balloon animal artist.",
+          "id": "q_1556647720889_VfwybUWP_ibex"
+        }
+      ],
+      "id": "q_1556647720889_KlFs9pum_chileanjackmackerel",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 1,
+      "notForLessonExam": true
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "In the video, Chef Keith is making balloon animals for",
+      "quizAnswers": [
+        {
+          "answerText": "his birthday party.",
+          "id": "q_1556647720889_LMgrYjHJ_bird"
+        },
+        {
+          "answerText": "Leah’s surprise party.",
+          "id": "q_1556647720889_pjw4FPsi_python"
+        },
+        {
+          "answerText": "his dog’s birthday party.",
+          "rightAnswer": true,
+          "id": "q_1556647720889_MNX4JOqe_loggerheadturtle"
+        },
+        {
+          "answerText": "his dog’s baby shower.",
+          "id": "q_1556647720889_7Cj5Z1ka_lagoontriggerfish"
+        }
+      ],
+      "id": "q_1556647720889_bm5V2FHR_flatbackturtle",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 2,
+      "notForLessonExam": true
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "In the video, one of the many balloon animals Chef Keith made was",
+      "quizAnswers": [
+        {
+          "answerText": "a rattlesnake.",
+          "id": "q_1556647720889_JEQkPSsA_bushbaby"
+        },
+        {
+          "answerText": "a lion snake.",
+          "id": "q_1556647720889_2mKAVh7F_mountainGoat"
+        },
+        {
+          "answerText": "a whale snake.",
+          "id": "q_1556647720889_sknnr6jr_gerbil"
+        },
+        {
+          "answerText": "a butterfly snake.",
+          "rightAnswer": true,
+          "id": "q_1556647720889_M2X8VHd7_commonfangtooth"
+        }
+      ],
+      "id": "q_1556647720889_2XbqWiqP_drongo",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 3,
+      "notForLessonExam": true
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "In the video, Chef Keith explains that",
+      "quizAnswers": [
+        {
+          "answerText": "dogs age seven years to one human year.",
+          "rightAnswer": true,
+          "id": "q_1556647720889_L6t6uDbK_morayeel"
+        },
+        {
+          "answerText": "dogs have a birthday every seven years.",
+          "id": "q_1556647720889_mOMvRLbx_tarantula"
+        },
+        {
+          "answerText": "on his birthday he wants seven dogs.",
+          "id": "q_1556647720889_o1NsMTw9_hapuka"
+        },
+        {
+          "answerText": "he wanted a dog since his seventh birthday.",
+          "id": "q_1556647720889_9UeMPbxv_indiangharial"
+        }
+      ],
+      "id": "q_1556647720889_r24dGZzZ_ladybug",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 4,
+      "notForLessonExam": true
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "animal.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "bear",
+          "id": "q_1556647720889_0bYrU47z_southernstingray"
+        },
+        {
+          "answerText": "animal",
+          "rightAnswer": true,
+          "id": "q_1556647720889_kn8c8ROn_caracara"
+        },
+        {
+          "answerText": "lion",
+          "id": "q_1556647720889_DHrtOi40_kangaroorat"
+        },
+        {
+          "answerText": "have",
+          "id": "q_1556647720889_zqBt65to_geoduck"
+        }
+      ],
+      "id": "q_1556647720889_0ExEeaFl_kultarr",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 5
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "bear.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "animal",
+          "id": "q_1556647720889_URbIG97F_mussel"
+        },
+        {
+          "answerText": "tiger",
+          "id": "q_1556647720889_x5as5gyq_finwhale"
+        },
+        {
+          "answerText": "bear",
+          "rightAnswer": true,
+          "id": "q_1556647720889_F4X4axA9_swordfish"
+        },
+        {
+          "answerText": "itchy",
+          "id": "q_1556647720889_T0QeYzSA_beetle"
+        }
+      ],
+      "id": "q_1556647720889_lqxHvRWr_giantpanda",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 6
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "bee.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "bug",
+          "id": "q_1556647720889_PDpGj3qt_longsnoutseahorse"
+        },
+        {
+          "answerText": "bird",
+          "id": "q_1556647720889_CoGCdQSG_hedgehogs"
+        },
+        {
+          "answerText": "chicken",
+          "id": "q_1556647720889_GbLeycK3_cottonrat"
+        },
+        {
+          "answerText": "bee",
+          "rightAnswer": true,
+          "id": "q_1556647720889_8GHcYnlj_zebra"
+        }
+      ],
+      "id": "q_1556647720889_QBz3AYhV_porcupine",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 7
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "bird.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "bird",
+          "rightAnswer": true,
+          "id": "q_1556647720889_9v8jHlh7_pangolin"
+        },
+        {
+          "answerText": "bee",
+          "id": "q_1556647720889_Fxq6kIin_umbrellasquid"
+        },
+        {
+          "answerText": "duck",
+          "id": "q_1556647720889_gaOvfcU9_newt"
+        },
+        {
+          "answerText": "bug",
+          "id": "q_1556647720889_XnUCUuD2_rattlesnake"
+        }
+      ],
+      "id": "q_1556647720889_J2z1YBuo_coelacanth",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 8
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "bug.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "bee",
+          "id": "q_1556647720889_sehRMs4M_giantpanda"
+        },
+        {
+          "answerText": "bug",
+          "rightAnswer": true,
+          "id": "q_1556647720889_wHw8s6UL_anoa"
+        },
+        {
+          "answerText": "bat",
+          "id": "q_1556647720889_Sm3NqBrN_redkingcrab"
+        },
+        {
+          "answerText": "smelly",
+          "id": "q_1556647720889_bOg1chox_dumbooctopus"
+        }
+      ],
+      "id": "q_1556647720889_dRmcOe7Q_frenchangelfish",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 9
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "butterfly.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "drove",
+          "id": "q_1556647720889_RC1aAdKs_cockatoo"
+        },
+        {
+          "answerText": "goose",
+          "id": "q_1556647720889_1A5zDbem_bulbul"
+        },
+        {
+          "answerText": "butterfly",
+          "rightAnswer": true,
+          "id": "q_1556647720889_2jfGyOxz_beetle"
+        },
+        {
+          "answerText": "fly away",
+          "id": "q_1556647720889_7Q7mD2yF_weasel"
+        }
+      ],
+      "id": "q_1556647720889_ztvm8ABH_two-toedsloth",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 10
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "camel.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "cougar",
+          "id": "q_1556647720889_tZXvdPEE_bluebandedgoby"
+        },
+        {
+          "answerText": "cricket",
+          "id": "q_1556647720889_He3eAlvb_impala"
+        },
+        {
+          "answerText": "crane",
+          "id": "q_1556647720889_dv6wE7jN_anaconda"
+        },
+        {
+          "answerText": "camel",
+          "rightAnswer": true,
+          "id": "q_1556647720889_5c5J4SB7_harrier"
+        }
+      ],
+      "id": "q_1556647720889_1cOQiey8_caecilian",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 11
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "cat.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "cat",
+          "rightAnswer": true,
+          "id": "q_1556647720889_dXvvwPbp_turaco"
+        },
+        {
+          "answerText": "tiger",
+          "id": "q_1556647720889_J9EMI4hT_harrier"
+        },
+        {
+          "answerText": "fox",
+          "id": "q_1556647720889_7N5S6x4w_rossseals"
+        },
+        {
+          "answerText": "whiskers",
+          "id": "q_1556647720889_zsLQivXg_stickleback"
+        }
+      ],
+      "id": "q_1556647720889_tkXfEQYE_kingcobra",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 12
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "chicken.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "anteater",
+          "id": "q_1556647720889_QLYw9jO7_koala"
+        },
+        {
+          "answerText": "chicken",
+          "rightAnswer": true,
+          "id": "q_1556647720889_O4cf3lBp_goose"
+        },
+        {
+          "answerText": "termites",
+          "id": "q_1556647720889_lCHB17VA_grouper"
+        },
+        {
+          "answerText": "bug",
+          "id": "q_1556647720889_5D000jH9_cassowary"
+        }
+      ],
+      "id": "q_1556647720889_vrFviGbf_lion",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 13
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "clam.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "hippo",
+          "id": "q_1556647720889_aGaKs0gn_bass"
+        },
+        {
+          "answerText": "alligator",
+          "id": "q_1556647720889_6pIm7to8_seacucumber"
+        },
+        {
+          "answerText": "clam",
+          "rightAnswer": true,
+          "id": "q_1556647720889_7Xnd04p2_seahorse"
+        },
+        {
+          "answerText": "hungry",
+          "id": "q_1556647720889_qzeBBxWX_salmon"
+        }
+      ],
+      "id": "q_1556647720889_lzb8857G_burro",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 14
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "cougar.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "camel",
+          "id": "q_1556647720889_Gf0QPmSx_cloudedleopard"
+        },
+        {
+          "answerText": "cricket",
+          "id": "q_1556647720889_OS3PGj4W_buzzard"
+        },
+        {
+          "answerText": "coonhound",
+          "id": "q_1556647720889_vkKorXhS_capybara"
+        },
+        {
+          "answerText": "cougar",
+          "rightAnswer": true,
+          "id": "q_1556647720889_9lpI87wN_burro"
+        }
+      ],
+      "id": "q_1556647720889_61jOGok2_flounder",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 15
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "cow.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "cow",
+          "rightAnswer": true,
+          "id": "q_1556647720889_1k5SkbHd_africanbuffalo"
+        },
+        {
+          "answerText": "elk",
+          "id": "q_1556647720889_Eaw4tYHx_flatfish"
+        },
+        {
+          "answerText": "moose",
+          "id": "q_1556647720889_6oSHHmjw_pigsandhogs"
+        },
+        {
+          "answerText": "bull rider",
+          "id": "q_1556647720889_wMDKPKCl_leopardseal"
+        }
+      ],
+      "id": "q_1556647720889_Vj0tXVLQ_ducks",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 16
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "cricket.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "camel",
+          "id": "q_1556647720890_PrquDkVM_tamandua"
+        },
+        {
+          "answerText": "cricket",
+          "rightAnswer": true,
+          "id": "q_1556647720890_YtWXvI8Y_nudibranch"
+        },
+        {
+          "answerText": "cougar",
+          "id": "q_1556647720890_o0WJqx9J_nassaugrouper"
+        },
+        {
+          "answerText": "crow",
+          "id": "q_1556647720890_421b6b5q_nubianibex"
+        }
+      ],
+      "id": "q_1556647720889_VTqLKMDB_squirrel",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 17
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "deer.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "cow",
+          "id": "q_1556647720890_XfWy3rru_redpanda"
+        },
+        {
+          "answerText": "bull",
+          "id": "q_1556647720890_M6lselnG_bass"
+        },
+        {
+          "answerText": "deer",
+          "rightAnswer": true,
+          "id": "q_1556647720890_18x4q5CW_africanwilddog"
+        },
+        {
+          "answerText": "dad",
+          "id": "q_1556647720890_xLW3CbAI_megamouthshark"
+        }
+      ],
+      "id": "q_1556647720890_5a5rd8Lw_patagoniantoothfish",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 18
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "dinosaur.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "dolphin",
+          "id": "q_1556647720890_uMqFwV5e_woodchuck"
+        },
+        {
+          "answerText": "ostrich",
+          "id": "q_1556647720890_E6jLGW2a_velvetcrab"
+        },
+        {
+          "answerText": "goose",
+          "id": "q_1556647720890_lWhVqaif_gerbil"
+        },
+        {
+          "answerText": "dinosaur",
+          "rightAnswer": true,
+          "id": "q_1556647720890_x3KScCfP_civet"
+        }
+      ],
+      "id": "q_1556647720890_8pq67F3G_skinks",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 19
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "dog.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "dog",
+          "rightAnswer": true,
+          "id": "q_1556647720890_FSDDJOvu_bison"
+        },
+        {
+          "answerText": "fast",
+          "id": "q_1556647720890_LJB4VL81_christmastreeworm"
+        },
+        {
+          "answerText": "pet",
+          "id": "q_1556647720890_b2i0Bl1W_cockscombcupcoral"
+        },
+        {
+          "answerText": "come",
+          "id": "q_1556647720890_XvDcMlD2_bass"
+        }
+      ],
+      "id": "q_1556647720890_d8mtGNpn_pigeons",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 20
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "dolphin.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "seal",
+          "id": "q_1556647720890_HMTFm9lT_umbrellasquid"
+        },
+        {
+          "answerText": "dolphin",
+          "rightAnswer": true,
+          "id": "q_1556647720890_0nFOn4c7_bandedcoralshrimp"
+        },
+        {
+          "answerText": "whale",
+          "id": "q_1556647720890_yyxbnsC3_yellowcupblackcoral"
+        },
+        {
+          "answerText": "fish",
+          "id": "q_1556647720890_abgldPUt_tit"
+        }
+      ],
+      "id": "q_1556647720890_JPztq5sS_gazelle",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 21
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "duck.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "chicken ",
+          "id": "q_1556647720890_yA3kcLKW_snowleopard"
+        },
+        {
+          "answerText": "bird",
+          "id": "q_1556647720890_CYT5U1tW_hedgehogs"
+        },
+        {
+          "answerText": "duck",
+          "rightAnswer": true,
+          "id": "q_1556647720890_JfSMsbqD_humpbackanglerfish"
+        },
+        {
+          "answerText": "eat",
+          "id": "q_1556647720890_RYU3DjMl_hamsters"
+        }
+      ],
+      "id": "q_1556647720890_eIzzLdcZ_fugu(alsocalledpufferfish)",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 22
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "eagle.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "vulture ",
+          "id": "q_1556647720890_4qHclzbK_komododragon"
+        },
+        {
+          "answerText": "bird",
+          "id": "q_1556647720890_MZ1632br_octopus"
+        },
+        {
+          "answerText": "duck",
+          "id": "q_1556647720890_SvgdH9KW_rhea"
+        },
+        {
+          "answerText": "eagle",
+          "rightAnswer": true,
+          "id": "q_1556647720890_udwalSy1_greyatlanticseal"
+        }
+      ],
+      "id": "q_1556647720890_BywkjSxa_cotinga",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 23
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "elephant.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "elephant ",
+          "rightAnswer": true,
+          "id": "q_1556647720890_1PUxVskr_kowari"
+        },
+        {
+          "answerText": "slide",
+          "id": "q_1556647720890_xuVCmkSC_crane"
+        },
+        {
+          "answerText": "goose",
+          "id": "q_1556647720890_2g9pjIHR_terribleclawlobster"
+        },
+        {
+          "answerText": "camel",
+          "id": "q_1556647720890_57ATVsgn_brownbear"
+        }
+      ],
+      "id": "q_1556647720890_Fhh4uSZC_fisher",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 24
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "fish.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "dolphin ",
+          "id": "q_1556647720890_A2jQdN7m_gelada"
+        },
+        {
+          "answerText": "fish",
+          "rightAnswer": true,
+          "id": "q_1556647720890_Eb8Bmp1T_peafowl"
+        },
+        {
+          "answerText": "whale",
+          "id": "q_1556647720890_lv58G2JR_coati"
+        },
+        {
+          "answerText": "swim",
+          "id": "q_1556647720890_X6pbiSDy_hornshark"
+        }
+      ],
+      "id": "q_1556647720890_1J1GuuKd_yelloweyerockfish",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 25
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "fare a ssm.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "fox ",
+          "id": "q_1556647720890_AcNvlHLR_rattailfish"
+        },
+        {
+          "answerText": "pig",
+          "id": "q_1556647720890_3N9NAQoE_jellyfish"
+        },
+        {
+          "answerText": "farm",
+          "rightAnswer": true,
+          "id": "q_1556647720890_ifjvxCt2_pelagicthreshershark"
+        },
+        {
+          "answerText": "frog",
+          "id": "q_1556647720890_UU65nhri_wren"
+        }
+      ],
+      "id": "q_1556647720890_YgYkMMOi_flameback",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 26
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "fox.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "eagle ",
+          "id": "q_1556647720890_JUpmEvKl_babydollsheep"
+        },
+        {
+          "answerText": "funny",
+          "id": "q_1556647720890_JFIZ1Vib_lionsmanejellyfish"
+        },
+        {
+          "answerText": "bird",
+          "id": "q_1556647720890_rHM8rXDk_flameback"
+        },
+        {
+          "answerText": "fox",
+          "rightAnswer": true,
+          "id": "q_1556647720890_glRdtZbn_ostracod"
+        }
+      ],
+      "id": "q_1556647720890_cBXyNoBo_himalayantahr",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 27
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What's this sign?",
+      "fileName": "frog.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "frog ",
+          "rightAnswer": true,
+          "id": "q_1556647720890_ublIgPcJ_puma"
+        },
+        {
+          "answerText": "duck",
+          "id": "q_1556647720890_FaSXhvuz_goblinshark"
+        },
+        {
+          "answerText": "cough",
+          "id": "q_1556647720890_2la0AiRC_mandrill"
+        },
+        {
+          "answerText": "farm",
+          "id": "q_1556647720890_234x3eLr_hawaiianmonkseal"
+        }
+      ],
+      "id": "q_1556647720890_GSCQcYdZ_tyrantflycatcher",
+      "type": "question",
+      "parent": "q_1556647720888_OU8XPC1b_smelts",
+      "order": 28
+    },
+    {
+      "title": "QUIZ: Animal Signs (from Lesson 10)",
+      "subTitle": "Chapter 3",
+      "icon": "fa-question",
+      "components": [
+        {
+          "id": "c_1556647720890_T1Qz5NBL_mountainGoat",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "q_1556647720888_OU8XPC1b_smelts"
+        },
+        {
+          "id": "c_1556647720890_BxbjYTl3_limpet",
+          "component": "Quiz",
+          "componentPath": "common/courseRabbit/QuizBoss",
+          "children": [
+            "q_1556647720889_gNNwJSHD_reddrum",
+            "q_1556647720889_KlFs9pum_chileanjackmackerel",
+            "q_1556647720889_bm5V2FHR_flatbackturtle",
+            "q_1556647720889_2XbqWiqP_drongo",
+            "q_1556647720889_r24dGZzZ_ladybug",
+            "q_1556647720889_0ExEeaFl_kultarr",
+            "q_1556647720889_lqxHvRWr_giantpanda",
+            "q_1556647720889_QBz3AYhV_porcupine",
+            "q_1556647720889_J2z1YBuo_coelacanth",
+            "q_1556647720889_dRmcOe7Q_frenchangelfish",
+            "q_1556647720889_ztvm8ABH_two-toedsloth",
+            "q_1556647720889_1cOQiey8_caecilian",
+            "q_1556647720889_tkXfEQYE_kingcobra",
+            "q_1556647720889_vrFviGbf_lion",
+            "q_1556647720889_lzb8857G_burro",
+            "q_1556647720889_61jOGok2_flounder",
+            "q_1556647720889_Vj0tXVLQ_ducks",
+            "q_1556647720889_VTqLKMDB_squirrel",
+            "q_1556647720890_5a5rd8Lw_patagoniantoothfish",
+            "q_1556647720890_8pq67F3G_skinks",
+            "q_1556647720890_d8mtGNpn_pigeons",
+            "q_1556647720890_JPztq5sS_gazelle",
+            "q_1556647720890_eIzzLdcZ_fugu(alsocalledpufferfish)",
+            "q_1556647720890_BywkjSxa_cotinga",
+            "q_1556647720890_Fhh4uSZC_fisher",
+            "q_1556647720890_1J1GuuKd_yelloweyerockfish",
+            "q_1556647720890_YgYkMMOi_flameback",
+            "q_1556647720890_cBXyNoBo_himalayantahr",
+            "q_1556647720890_GSCQcYdZ_tyrantflycatcher"
+          ],
+          "parent": "q_1556647720888_OU8XPC1b_smelts"
+        },
+        {
+          "id": "c_1556647720890_9RNfImmE_xenops",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "q_1556647720888_OU8XPC1b_smelts"
+        }
+      ],
+      "id": "q_1556647720888_OU8XPC1b_smelts",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "quiz",
+      "order": 2
+    },
+    {
+      "title": "Possessives & Fingerspelling (From Lesson 2)",
+      "subTitle": "Chapter 4",
+      "icon": "fa-play-circle",
+      "components": [
+        {
+          "id": "c_1556647720890_SRlR54P0_coati",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720890_ILSw6s62_reptile"
+        },
+        {
+          "id": "c_1556647720890_y1SOpOpu_giantclam",
+          "fileName": "Unit1-Lesson2-4_Chapter4-PossessiveSigns.mp4",
+          "component": "CourseVideo",
+          "componentPath": "common/courseRabbit/CourseVideo",
+          "videoLayout": "SignItVideoLayout",
+          "videoLayoutPath": "customComponents/signitasl/SignItVideoLayout",
+          "children": [],
+          "parent": "c_1556647720890_ILSw6s62_reptile"
+        },
+        {
+          "id": "c_1556647720890_Fd862pKl_silverFox",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720890_ILSw6s62_reptile"
+        }
+      ],
+      "id": "c_1556647720890_ILSw6s62_reptile",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "movie",
+      "order": 3
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "What is the ASL gloss for this sentence: 'What is your grandfather’s name?'",
+      "quizAnswers": [
+        {
+          "answerText": "Your grandfather, his name what?",
+          "rightAnswer": true,
+          "id": "q_1556647720890_7mjliI3J_caracara"
+        },
+        {
+          "answerText": "Tell me name your grandfather?",
+          "id": "q_1556647720890_FRJtzjAP_africanbuffalo"
+        },
+        {
+          "answerText": "My grandfather, he a ssis name what?",
+          "id": "q_1556647720890_aW4R85QW_christmastreeworm"
+        },
+        {
+          "answerText": "What is your name’s grandfather?",
+          "id": "q_1556647720890_pXLgsb7T_marmoset"
+        }
+      ],
+      "id": "q_1556647720890_f9Tn81v2_bear",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 0
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "In the ASL gloss sentence, 'Your cousin, her mom who?', which word/sign is possessive?",
+      "quizAnswers": [
+        {
+          "answerText": "name",
+          "id": "q_1556647720890_Fw6aRc6H_bluefish"
+        },
+        {
+          "answerText": "her",
+          "rightAnswer": true,
+          "id": "q_1556647720890_oVQLGbCn_drongo"
+        },
+        {
+          "answerText": "cousin",
+          "id": "q_1556647720890_FeTS3g3Y_rossseals"
+        },
+        {
+          "answerText": "who",
+          "id": "q_1556647720890_y5AUjVKK_dolphin"
+        }
+      ],
+      "id": "q_1556647720890_BP8hAgkb_gnu",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 1
+    },
+    {
+      "component": "QuizText",
+      "componentPath": "common/courseRabbit/QuizText",
+      "quizQuestionText": "Which of these ASL gloss sentences has a possessive sign?",
+      "quizAnswers": [
+        {
+          "answerText": "Homemade, delicious.",
+          "id": "q_1556647720890_VCGjVxJD_silverFox"
+        },
+        {
+          "answerText": "You forgot something.",
+          "id": "q_1556647720890_DOokR45o_tigerprawn"
+        },
+        {
+          "answerText": "Your grandfather, cake his?",
+          "rightAnswer": true,
+          "id": "q_1556647720890_loAXALYx_bandedbutterflyfish"
+        },
+        {
+          "answerText": "Yes, family picnic, birthday party.",
+          "id": "q_1556647720890_U6ldzEWw_elk"
+        }
+      ],
+      "id": "q_1556647720890_GRCb8RaQ_sugargliders",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 2
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "ACE.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Ace",
+          "rightAnswer": true,
+          "id": "q_1556647720890_2IYx4U3H_corydoras"
+        },
+        {
+          "answerText": "Eat",
+          "id": "q_1556647720890_LuzeI8sZ_vigtorniellaworm"
+        },
+        {
+          "answerText": "Act",
+          "id": "q_1556647720890_v57Inxur_rossseals"
+        },
+        {
+          "answerText": "Okra",
+          "id": "q_1556647720890_CsPejy6i_octopus"
+        }
+      ],
+      "id": "q_1556647720890_kliUqczD_white-ringgardeneel",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 3
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "BALL.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Bell",
+          "id": "q_1556647720890_kL2NSB2H_giantkingfish"
+        },
+        {
+          "answerText": "Ball",
+          "rightAnswer": true,
+          "id": "q_1556647720890_a18sPn8N_woodswallow"
+        },
+        {
+          "answerText": "Sell",
+          "id": "q_1556647720890_zIk3kcAE_bee"
+        },
+        {
+          "answerText": "Boil",
+          "id": "q_1556647720890_yJXMmYI5_bison"
+        }
+      ],
+      "id": "q_1556647720890_UL2RxGfE_dunnart",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 4
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "BLUE.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Blip",
+          "id": "q_1556647720890_7DHY62wc_smallclawedasianotter"
+        },
+        {
+          "answerText": "Brew",
+          "id": "q_1556647720890_N33H2LIu_pigsandhogs"
+        },
+        {
+          "answerText": "Blue",
+          "rightAnswer": true,
+          "id": "q_1556647720890_Hoi6Hh8v_threespotdamselfish"
+        },
+        {
+          "answerText": "Brut",
+          "id": "q_1556647720890_R3td6nGf_sugargliders"
+        }
+      ],
+      "id": "q_1556647720890_HD9eo9Aw_squirrelmonkey",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 5
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "CAR.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Care",
+          "id": "q_1556647720890_qejjr9nO_spectacledbear"
+        },
+        {
+          "answerText": "Cat",
+          "id": "q_1556647720890_cSTm4RrM_macaw"
+        },
+        {
+          "answerText": "Can",
+          "id": "q_1556647720890_YidB5xis_dassierat"
+        },
+        {
+          "answerText": "Car",
+          "rightAnswer": true,
+          "id": "q_1556647720890_RQWRKHbV_brownbear"
+        }
+      ],
+      "id": "q_1556647720890_7hrat6yV_grison",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 6
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "COW.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Cow",
+          "rightAnswer": true,
+          "id": "q_1556647720890_kmdJUbQD_cardinal"
+        },
+        {
+          "answerText": "Corn",
+          "id": "q_1556647720890_DjYcOw69_viperfish"
+        },
+        {
+          "answerText": "Cop",
+          "id": "q_1556647720890_p1mdRgda_flyingfrog"
+        },
+        {
+          "answerText": "Coy",
+          "id": "q_1556647720890_a8fgBGq3_walrus"
+        }
+      ],
+      "id": "q_1556647720890_6xp20Siv_lopheliacoral",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 7
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "FOR.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Far",
+          "id": "q_1556647720890_oijOqnKt_sablefish"
+        },
+        {
+          "answerText": "For",
+          "rightAnswer": true,
+          "id": "q_1556647720890_kxjNpx3c_goose"
+        },
+        {
+          "answerText": "Fir",
+          "id": "q_1556647720890_ClQRxXDs_bluemarlin"
+        },
+        {
+          "answerText": "Fair",
+          "id": "q_1556647720890_lgqOX9d1_porpoise"
+        }
+      ],
+      "id": "q_1556647720890_6Hb3YO28_guineafowlpuffer",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 8
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "HAIR.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Here",
+          "id": "q_1556647720890_x1jpI5Zw_edibleseacucumber"
+        },
+        {
+          "answerText": "Hear",
+          "id": "q_1556647720891_vVoSMyp1_giraffe"
+        },
+        {
+          "answerText": "Hair",
+          "rightAnswer": true,
+          "id": "q_1556647720891_eOXNI4fN_geese"
+        },
+        {
+          "answerText": "Hail",
+          "id": "q_1556647720891_LQMdfTvv_ibex"
+        }
+      ],
+      "id": "q_1556647720890_4jpynHod_donkey",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 9
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "MARE.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "More",
+          "id": "q_1556647720891_WcQKCaHn_mousedeer"
+        },
+        {
+          "answerText": "Malt",
+          "id": "q_1556647720891_ZOlC2H6i_moose"
+        },
+        {
+          "answerText": "Mart",
+          "id": "q_1556647720891_PjiqDU85_vaquita"
+        },
+        {
+          "answerText": "Mare",
+          "rightAnswer": true,
+          "id": "q_1556647720891_gbO4r7ul_tortoise"
+        }
+      ],
+      "id": "q_1556647720891_gdlSHeNX_bat",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 10
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "MUCH.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Much",
+          "rightAnswer": true,
+          "id": "q_1556647720891_YSden4f2_jaguarundi"
+        },
+        {
+          "answerText": "Such",
+          "id": "q_1556647720891_FSidNrC9_goblinshark"
+        },
+        {
+          "answerText": "Munch",
+          "id": "q_1556647720891_XNbMjzjl_deer"
+        },
+        {
+          "answerText": "Moth",
+          "id": "q_1556647720891_2SbZVgza_yellowtubesponge"
+        }
+      ],
+      "id": "q_1556647720891_cFE04Dtu_hamster",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 11
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "NOSE.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Most",
+          "id": "q_1556647720891_cza9QVPW_donkey"
+        },
+        {
+          "answerText": "Nose",
+          "rightAnswer": true,
+          "id": "q_1556647720891_vTpAneGK_brownbear"
+        },
+        {
+          "answerText": "Noise",
+          "id": "q_1556647720891_rB6yOolP_burro"
+        },
+        {
+          "answerText": "Moon",
+          "id": "q_1556647720891_JeogGGS9_sugargliders"
+        }
+      ],
+      "id": "q_1556647720891_h5RNTEpD_bushshrike",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 12
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "PARE.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Part",
+          "id": "q_1556647720891_ThNaYDvl_pinksalmon"
+        },
+        {
+          "answerText": "Pore",
+          "id": "q_1556647720891_sdgqCiui_snowyowl"
+        },
+        {
+          "answerText": "Pare",
+          "rightAnswer": true,
+          "id": "q_1556647720891_G7EYkXLI_plankton"
+        },
+        {
+          "answerText": "Karo",
+          "id": "q_1556647720891_KXiXhEuD_hake"
+        }
+      ],
+      "id": "q_1556647720891_CWdaJ5fz_silversidefish",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 13
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "PET.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Pot",
+          "id": "q_1556647720891_MrXR9vlu_tapir"
+        },
+        {
+          "answerText": "Pan",
+          "id": "q_1556647720891_kwWkOBzV_fugu(alsocalledpufferfish)"
+        },
+        {
+          "answerText": "Pen",
+          "id": "q_1556647720891_rnoqUhUf_binturong"
+        },
+        {
+          "answerText": "Pet",
+          "rightAnswer": true,
+          "id": "q_1556647720891_xgEAGoFI_eccentricsanddollar"
+        }
+      ],
+      "id": "q_1556647720891_hH9AjTxt_rattailfish",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 14
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "RAM.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Ram",
+          "rightAnswer": true,
+          "id": "q_1556647720891_V1CJGxD7_sealion"
+        },
+        {
+          "answerText": "Ran",
+          "id": "q_1556647720891_AMXfyCmi_bushbaby"
+        },
+        {
+          "answerText": "Rat",
+          "id": "q_1556647720891_lWVWSh4q_seaurchin"
+        },
+        {
+          "answerText": "Ron",
+          "id": "q_1556647720891_fkHDewsI_hartebeest"
+        }
+      ],
+      "id": "q_1556647720891_oILbKjit_sugargliders",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 15
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "ROW.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Roy",
+          "id": "q_1556647720891_J6MRIcvP_viperfish"
+        },
+        {
+          "answerText": "Row",
+          "rightAnswer": true,
+          "id": "q_1556647720891_QnkVysh1_redriverhog"
+        },
+        {
+          "answerText": "Raw",
+          "id": "q_1556647720891_FM6H3Gls_black-footedcat"
+        },
+        {
+          "answerText": "Now",
+          "id": "q_1556647720892_EVJevfJ1_echidna"
+        }
+      ],
+      "id": "q_1556647720891_kAORfLUw_gayal",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 16
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "SAD.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Sap",
+          "id": "q_1556647720892_KjpOQ6U5_hamster"
+        },
+        {
+          "answerText": "Sod",
+          "id": "q_1556647720892_4dPruuaN_queenparrotfish"
+        },
+        {
+          "answerText": "Sad",
+          "rightAnswer": true,
+          "id": "q_1556647720892_GMxP2Xbt_bass"
+        },
+        {
+          "answerText": "Add",
+          "id": "q_1556647720892_rVNms5Tz_yellowfintuna"
+        }
+      ],
+      "id": "q_1556647720892_KZ0v1kr5_queenconch",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 17
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "TAIL.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Tall",
+          "id": "q_1556647720892_1fRBnWLF_goat"
+        },
+        {
+          "answerText": "Mail",
+          "id": "q_1556647720892_TTRBcR7Z_chinchillas"
+        },
+        {
+          "answerText": "Sail",
+          "id": "q_1556647720892_dSAV3uuh_anoa"
+        },
+        {
+          "answerText": "Tail",
+          "rightAnswer": true,
+          "id": "q_1556647720892_xmfWGP62_nurseshark"
+        }
+      ],
+      "id": "q_1556647720892_nYA4WEL0_silversidefish",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 18
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "TWO.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Two",
+          "rightAnswer": true,
+          "id": "q_1556647720892_L2oBKurE_chimpanzee"
+        },
+        {
+          "answerText": "Duo",
+          "id": "q_1556647720892_1PMfqfEx_frilledshark"
+        },
+        {
+          "answerText": "Too",
+          "id": "q_1556647720892_HW0hnv2r_hatchetfish"
+        },
+        {
+          "answerText": "Sow",
+          "id": "q_1556647720892_HbzuMSf3_turkey"
+        }
+      ],
+      "id": "q_1556647720892_r23MilR8_ant",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 19
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "WEAR.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "West",
+          "id": "q_1556647720892_C7YYkXXs_geese"
+        },
+        {
+          "answerText": "Wear",
+          "rightAnswer": true,
+          "id": "q_1556647720892_kGH5qJFG_babydollsheep"
+        },
+        {
+          "answerText": "Wet",
+          "id": "q_1556647720892_9XLN4b1U_pinniped"
+        },
+        {
+          "answerText": "Yes",
+          "id": "q_1556647720892_kEg3T2hx_ladybug"
+        }
+      ],
+      "id": "q_1556647720892_x8ttfroA_chickens",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 20
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "WITH.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Wit",
+          "id": "q_1556647720892_wO7WAvCA_manatee"
+        },
+        {
+          "answerText": "Which",
+          "id": "q_1556647720892_uFdevjX2_barredowl"
+        },
+        {
+          "answerText": "With",
+          "rightAnswer": true,
+          "id": "q_1556647720892_RHN6ikl4_lynx"
+        },
+        {
+          "answerText": "Witch",
+          "id": "q_1556647720892_AYPh1h1b_mantaray"
+        }
+      ],
+      "id": "q_1556647720892_YjLsxpEd_horseshoecrab",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 21
+    },
+    {
+      "component": "QuizVideo",
+      "componentPath": "common/courseRabbit/QuizVideo",
+      "videoLayout": "SignItQuizVideoLayout",
+      "videoLayoutPath": "customComponents/signitasl/SignItQuizVideoLayout",
+      "quizQuestionText": "What is this fingerspelled word?",
+      "fileName": "YET.mp4",
+      "quizAnswers": [
+        {
+          "answerText": "Yes",
+          "id": "q_1556647720892_H8ML9NX5_centipede"
+        },
+        {
+          "answerText": "Yea",
+          "id": "q_1556647720892_VxyDaptY_guineafowl"
+        },
+        {
+          "answerText": "Wet",
+          "id": "q_1556647720892_BIQs98Dm_snowleopard"
+        },
+        {
+          "answerText": "Yet",
+          "rightAnswer": true,
+          "id": "q_1556647720892_SsXdxO3v_bullshark"
+        }
+      ],
+      "id": "q_1556647720892_El4jFvIK_yellowtubesponge",
+      "type": "question",
+      "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "order": 22
+    },
+    {
+      "title": "Fingerspelling Quiz (From Lesson 2)",
+      "subTitle": "Chapter 5",
+      "icon": "fa-question",
+      "components": [
+        {
+          "id": "c_1556647720892_t4lg8ZMP_napoleonwrasse",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin"
+        },
+        {
+          "id": "c_1556647720892_ETlDzIjR_anemone",
+          "component": "Quiz",
+          "componentPath": "common/courseRabbit/QuizBoss",
+          "children": [
+            "q_1556647720890_f9Tn81v2_bear",
+            "q_1556647720890_BP8hAgkb_gnu",
+            "q_1556647720890_GRCb8RaQ_sugargliders",
+            "q_1556647720890_kliUqczD_white-ringgardeneel",
+            "q_1556647720890_UL2RxGfE_dunnart",
+            "q_1556647720890_HD9eo9Aw_squirrelmonkey",
+            "q_1556647720890_7hrat6yV_grison",
+            "q_1556647720890_6xp20Siv_lopheliacoral",
+            "q_1556647720890_6Hb3YO28_guineafowlpuffer",
+            "q_1556647720890_4jpynHod_donkey",
+            "q_1556647720891_gdlSHeNX_bat",
+            "q_1556647720891_cFE04Dtu_hamster",
+            "q_1556647720891_h5RNTEpD_bushshrike",
+            "q_1556647720891_CWdaJ5fz_silversidefish",
+            "q_1556647720891_hH9AjTxt_rattailfish",
+            "q_1556647720891_oILbKjit_sugargliders",
+            "q_1556647720891_kAORfLUw_gayal",
+            "q_1556647720892_KZ0v1kr5_queenconch",
+            "q_1556647720892_nYA4WEL0_silversidefish",
+            "q_1556647720892_r23MilR8_ant",
+            "q_1556647720892_x8ttfroA_chickens",
+            "q_1556647720892_YjLsxpEd_horseshoecrab",
+            "q_1556647720892_El4jFvIK_yellowtubesponge"
+          ],
+          "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin"
+        },
+        {
+          "id": "c_1556647720892_0OtDoPEP_flyingfish",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "q_1556647720890_WSB2VRnO_tuftedpuffin"
+        }
+      ],
+      "id": "q_1556647720890_WSB2VRnO_tuftedpuffin",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "quiz",
+      "order": 4
+    },
+    {
+      "title": "Sentences (From Lesson 11)",
+      "subTitle": "Chapter 6",
+      "icon": "fa-play-circle",
+      "components": [
+        {
+          "id": "c_1556647720892_h4t7pKV9_weaver",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720892_z2GRbzfC_imperatorangelfish"
+        },
+        {
+          "id": "c_1556647720892_DovQVOsf_halibut",
+          "fileName": "Unit3-Lesson11-05-Sentences.mp4",
+          "component": "CourseVideo",
+          "componentPath": "common/courseRabbit/CourseVideo",
+          "videoLayout": "SignItVideoLayout",
+          "videoLayoutPath": "customComponents/signitasl/SignItVideoLayout",
+          "children": [],
+          "parent": "c_1556647720892_z2GRbzfC_imperatorangelfish"
+        },
+        {
+          "id": "c_1556647720892_UmLcsxxN_hermitcrab",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720892_z2GRbzfC_imperatorangelfish"
+        }
+      ],
+      "id": "c_1556647720892_z2GRbzfC_imperatorangelfish",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "movie",
+      "order": 5
+    },
+    {
+      "title": "ASL Tip (From Lesson 10)",
+      "subTitle": "Chapter 7",
+      "icon": "fa-play-circle",
+      "components": [
+        {
+          "id": "c_1556647720892_2FALBPym_wildcat",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720892_QMWqbT4e_crow"
+        },
+        {
+          "id": "c_1556647720892_wFe2F5ds_mandrill",
+          "fileName": "Unit2-Lesson10-11-ASLTip-LocalizedSigns.mp4",
+          "component": "CourseVideo",
+          "componentPath": "common/courseRabbit/CourseVideo",
+          "videoLayout": "SignItVideoLayout",
+          "videoLayoutPath": "customComponents/signitasl/SignItVideoLayout",
+          "children": [],
+          "parent": "c_1556647720892_QMWqbT4e_crow"
+        },
+        {
+          "id": "c_1556647720892_mutfXVIb_kowari",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720892_QMWqbT4e_crow"
+        }
+      ],
+      "id": "c_1556647720892_QMWqbT4e_crow",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "movie",
+      "order": 6
+    },
+    {
+      "title": "ASL Interview (From Lesson 1)",
+      "subTitle": "Chapter 8",
+      "icon": "fa-play-circle",
+      "components": [
+        {
+          "id": "c_1556647720892_z5ldB6tf_tanbristlemouth",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720892_T7QR0ve3_dumbooctopus"
+        },
+        {
+          "id": "c_1556647720892_QX3HRU79_manatee",
+          "fileName": "Unit1_Lesson1_12-ASLInterview.mp4",
+          "component": "CourseVideo",
+          "componentPath": "common/courseRabbit/CourseVideo",
+          "videoLayout": "SignItVideoLayout",
+          "videoLayoutPath": "customComponents/signitasl/SignItVideoLayout",
+          "children": [],
+          "parent": "c_1556647720892_T7QR0ve3_dumbooctopus"
+        },
+        {
+          "id": "c_1556647720892_r7nZcl7U_parakeet",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720892_T7QR0ve3_dumbooctopus"
+        }
+      ],
+      "id": "c_1556647720892_T7QR0ve3_dumbooctopus",
+      "parent": "l_1556647720887_3ckrSUIY_harborseal",
+      "type": "movie",
+      "order": 7
+    },
+    {
+      "title": "Sample Chapters",
+      "subTitle": "Lesson 0",
+      "coverImage": "http://vault.platformpurple.com/static/productfiles/azst_signitasl-574/media/unit2-lesson10-poster.jpg",
+      "type": "lesson",
+      "components": [
+        {
+          "id": "c_1556647720892_z5ldB6tf_tanbristlemouth",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720892_T7QR0ve3_dumbooctopus"
+        },
+        {
+          "id": "l_1556647720892_JPGt4QfO_cloudedleopard",
+          "component": "Menu",
+          "componentPath": "common/courseRabbit/Menu",
+          "children": [
+            "c_1556647720888_Jm2k1Lx9_bird-of-paradise",
+            "c_1556647720888_WSFtmSKV_stoplightloosejaw",
+            "q_1556647720888_OU8XPC1b_smelts",
+            "c_1556647720890_ILSw6s62_reptile",
+            "q_1556647720890_WSB2VRnO_tuftedpuffin",
+            "c_1556647720892_z2GRbzfC_imperatorangelfish",
+            "c_1556647720892_QMWqbT4e_crow",
+            "c_1556647720892_T7QR0ve3_dumbooctopus"
+          ],
+          "parent": "l_1556647720887_3ckrSUIY_harborseal"
+        },
+        {
+          "id": "c_1556647720892_r7nZcl7U_parakeet",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720892_T7QR0ve3_dumbooctopus"
+        }
+      ],
+      "order": 0,
+      "id": "l_1556647720887_3ckrSUIY_harborseal"
+    },
+    {
+      "title": "Sample Chapters",
+      "subTitle": "Unit 0",
+      "coverImage": "http://vault.platformpurple.com/static/productfiles/azst_signitasl-574/media/unit2-lesson10-poster.jpg",
+      "type": "unit",
+      "components": [
+        {
+          "id": "c_1556647720892_z5ldB6tf_tanbristlemouth",
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav",
+          "parent": "c_1556647720892_T7QR0ve3_dumbooctopus"
+        },
+        {
+          "id": "c_1556647720892_Y4LYVQ3s_coquerel",
+          "component": "Menu",
+          "componentPath": "common/courseRabbit/Menu",
+          "children": [
+            "l_1556647720887_3ckrSUIY_harborseal"
+          ]
+        },
+        {
+          "id": "c_1556647720892_r7nZcl7U_parakeet",
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ],
+          "parent": "c_1556647720892_T7QR0ve3_dumbooctopus"
+        }
+      ],
+      "order": 0,
+      "courseStart": true
+    },
+    {
+      "title": "My Scores",
+      "icon": "fa-clipboard",
+      "id": "scores",
+      "components": [
+        {
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav"
+        },
+        {
+          "otherCourses": [
+            138345,
+            137222,
+            137279,
+            145363
+          ],
+          "component": "CourseScores",
+          "componentPath": "common/courseRabbit/CourseScores"
+        },
+        {
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dictionary",
+      "icon": "fa-book",
+      "id": "dictionary",
+      "components": [
+        {
+          "component": "courseNav",
+          "componentPath": "common/courseRabbit/courseNav"
+        },
+        {
+          "component": "CourseDictionary",
+          "componentPath": "customComponents/signitasl/CourseDictionary"
+        },
+        {
+          "component": "courseFooter",
+          "componentPath": "common/courseRabbit/courseFooter",
+          "courseRoutes": [
+            "scores",
+            "dictionary"
+          ]
+        }
+      ]
+    }
+  ],
+  "media": {
+    "video": [
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Introduction (from Lesson 10)",
+        "fileName": "Unit2-Lesson10-LessonIntroduction.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/Unit2-Lesson10-LessonIntroduction.mp4",
+        "id": "v_1556647720888_uPw1DuyH_cows",
+        "parent": "c_1556647720888_Jm2k1Lx9_bird-of-paradise",
+        "type": "videoMedia"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Vocabulary (from Lesson 10)",
+        "fileName": "Unit2-Lesson10-1-Chapter1-AnimalsVocabularySigns.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/Unit2-Lesson10-1-Chapter1-AnimalsVocabularySigns.mp4",
+        "id": "v_1556647720888_7XTM4WwP_turkey",
+        "parent": "c_1556647720888_WSFtmSKV_stoplightloosejaw",
+        "type": "videoMedia"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "animal.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/animal.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "bear.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/bear.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "bee.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/bee.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "bird.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/bird.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "bug.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/bug.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "butterfly.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/butterfly.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "camel.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/camel.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "cat.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/cat.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "chicken.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/chicken.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "clam.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/clam.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "cougar.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/cougar.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "cow.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/cow.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "cricket.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/cricket.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "deer.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/deer.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "dinosaur.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/dinosaur.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "dog.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/dog.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "dolphin.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/dolphin.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "duck.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/duck.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "eagle.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/eagle.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "elephant.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/elephant.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "fish.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/fish.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "fare a ssm.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/fare a ssm.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "fox.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/fox.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "QUIZ: Animal Signs (from Lesson 10)",
+        "fileName": "frog.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/2-10/frog.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Possessives & Fingerspelling (From Lesson 2)",
+        "fileName": "Unit1-Lesson2-4_Chapter4-PossessiveSigns.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/Unit1-Lesson2-4_Chapter4-PossessiveSigns.mp4",
+        "id": "v_1556647720890_Dpkt5lqa_ringedseal",
+        "parent": "c_1556647720890_ILSw6s62_reptile",
+        "type": "videoMedia"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "ACE.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/ACE.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "BALL.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/BALL.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "BLUE.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/BLUE.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "CAR.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/CAR.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "COW.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/COW.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "FOR.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/FOR.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "HAIR.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/HAIR.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "MARE.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/MARE.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "MUCH.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/MUCH.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "NOSE.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/NOSE.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "PARE.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/PARE.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "PET.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/PET.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "RAM.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/RAM.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "ROW.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/ROW.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "SAD.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/SAD.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "TAIL.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/TAIL.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "TWO.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/TWO.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "WEAR.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/WEAR.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "WITH.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/WITH.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Fingerspelling Quiz (From Lesson 2)",
+        "fileName": "YET.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/NewDictionary/1-2/YET.mp4"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "Sentences (From Lesson 11)",
+        "fileName": "Unit3-Lesson11-05-Sentences.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/Unit3-Lesson11-05-Sentences.mp4",
+        "id": "v_1556647720892_jQRrIkOU_panther",
+        "parent": "c_1556647720892_z2GRbzfC_imperatorangelfish",
+        "type": "videoMedia"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "ASL Tip (From Lesson 10)",
+        "fileName": "Unit2-Lesson10-11-ASLTip-LocalizedSigns.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/Unit2-Lesson10-11-ASLTip-LocalizedSigns.mp4",
+        "id": "v_1556647720892_rZHB76Yr_marlin",
+        "parent": "c_1556647720892_QMWqbT4e_crow",
+        "type": "videoMedia"
+      },
+      {
+        "chapterStartSeconds": 0,
+        "displayName": "ASL Interview (From Lesson 1)",
+        "fileName": "Unit1_Lesson1_12-ASLInterview.mp4",
+        "remotePath": "/products/catalog/azst_signitasl-574/media/Unit1_Lesson1_12-ASLInterview.mp4",
+        "id": "v_1556647720892_M1XS0KYC_dhole",
+        "parent": "c_1556647720892_T7QR0ve3_dumbooctopus",
+        "type": "videoMedia"
+      }
+    ],
+    "subtitleFiles": {
+      "Unit2-Lesson10-LessonIntroduction.mp4": [
+        {
+          "label": "English",
+          "lang": "en",
+          "remotePath": "/static/productfiles/azst_signitasl-574/vtt/Unit2-Lesson10-LessonIntroduction.vtt"
+        }
+      ],
+      "Unit2-Lesson10-1-Chapter1-AnimalsVocabularySigns.mp4": [
+        {
+          "label": "English",
+          "lang": "en",
+          "remotePath": "/static/productfiles/azst_signitasl-574/vtt/Unit2-Lesson10-1-Chapter1-AnimalsVocabularySigns.vtt",
+          "id": "s_1556647720888_xN6IQw3r_goose",
+          "parent": "v_1556647720888_uPw1DuyH_cows",
+          "type": "subtitleFile"
+        }
+      ],
+      "Unit1-Lesson2-4_Chapter4-PossessiveSigns.mp4": [
+        {
+          "label": "English",
+          "lang": "en",
+          "remotePath": "/static/productfiles/azst_signitasl-574/vtt/Unit1-Lesson2-4_Chapter4-PossessiveSigns.vtt",
+          "id": "s_1556647720888_2nuF45CG_dinosaur",
+          "parent": "v_1556647720888_7XTM4WwP_turkey",
+          "type": "subtitleFile"
+        }
+      ],
+      "Unit3-Lesson11-05-Sentences.mp4": [
+        {
+          "label": "English",
+          "lang": "en",
+          "remotePath": "/static/productfiles/azst_signitasl-574/vtt/Unit3-Lesson11-05-Sentences.vtt",
+          "id": "s_1556647720890_64nigGd7_ring-tailedlemur",
+          "parent": "v_1556647720890_Dpkt5lqa_ringedseal",
+          "type": "subtitleFile"
+        }
+      ],
+      "Unit2-Lesson10-11-ASLTip-LocalizedSigns.mp4": [
+        {
+          "label": "English",
+          "lang": "en",
+          "remotePath": "/static/productfiles/azst_signitasl-574/vtt/Unit2-Lesson10-11-ASLTip-LocalizedSigns.vtt",
+          "id": "s_1556647720892_LEZluH4h_bee",
+          "parent": "v_1556647720892_jQRrIkOU_panther",
+          "type": "subtitleFile"
+        }
+      ],
+      "Unit1_Lesson1_12-ASLInterview.mp4": [
+        {
+          "label": "English",
+          "lang": "en",
+          "remotePath": "/static/productfiles/azst_signitasl-574/vtt/Unit1_Lesson1_12-ASLInterview.vtt",
+          "id": "s_1556647720892_O7wTNsyM_drongo",
+          "parent": "v_1556647720892_rZHB76Yr_marlin",
+          "type": "subtitleFile"
+        }
+      ]
+    }
+  },
+  "productTitle": "Sign It: Sample Chapters",
+  "productID": 138345,
+  "productSKU": "azst_signitasl-574",
+  "title": "Sign It: Sample Chapters",
+  "subTitle": "Unit 0"
+}

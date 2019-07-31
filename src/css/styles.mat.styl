@@ -1,0 +1,31 @@
+a, a:link, a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+hr {
+  color: #F0F0F0;
+  opacity: 0.8;
+}
+
+.speech-bubble {
+  position: relative;
+  background: #F0F0F0;
+  width: 350px;
+  border-left: .5rem solid #0374D5;
+}
+
+.speech-bubble:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 15%;
+  width: 0;
+  height: 0;
+  border: 18px solid transparent;
+  border-top-color: #F0F0F0;
+  border-bottom: 0;
+  border-left: 0;
+  margin-left: -9px;
+  margin-bottom: -18px;
+}
