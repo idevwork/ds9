@@ -28,7 +28,7 @@
     "resumablejs": "^1.1.0",
     "scapegoat": "^1.0.0",
     "store": "^2.0.12",
-    "ua-parser-js": "^0.7.17",
+    "ua-parser-js": "^0.7.24",
     "velocity-animate": "^1.5.1",
     "video.js": "^6.7.3",
     "vue-analytics": "^5.9.0",
