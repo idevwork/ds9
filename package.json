@@ -30,7 +30,7 @@
     "store": "^2.0.12",
     "ua-parser-js": "^0.7.17",
     "velocity-animate": "^1.5.1",
-    "video.js": "^6.7.3",
+    "video.js": "^7.14.3",
     "vue-analytics": "^5.9.0",
     "vue-color": "^2.4.4",
     "vue-cropperjs": "^2.2.2",
