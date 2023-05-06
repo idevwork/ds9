@@ -13,7 +13,7 @@
   "dependencies": {
     "@jmellicker/j_": "^1.0.0",
     "autolinker": "^1.6.2",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "babel-polyfill": "^6.26.0",
     "chartist": "^0.11.0",
     "fuse.js": "^3.3.0",
